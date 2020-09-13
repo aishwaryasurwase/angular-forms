@@ -1,0 +1,11 @@
+.form-group{
+    width: 70%;
+}
+
+label{
+    font-weight: bold;
+}
+
+input.ng-touched.ng-invalid{
+    border: 1px solid red;
+}

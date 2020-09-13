@@ -1,0 +1,10 @@
+.form-group{
+    width: 70%;
+}
+input.ng-touched.ng-invalid{
+    border: 1px solid red;
+}
+div.ng-invalid.ng-touched{
+    border: 2px solid red;
+    padding: 1em;
+}
